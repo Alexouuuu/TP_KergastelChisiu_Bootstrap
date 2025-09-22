@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+
+:target {
+  scroll-margin-top: 60px;
+}
+
+header {
+    background: url('../images/nuages.jpg') center/cover no-repeat;
+}
+
+#materiel {
+    background-color: #dae9f5;
+}
